@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidhu2003
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Front-End Development
-- 💞️ I’m looking to collaborate with My friends
+- 💞️ I’m looking to collaborate with Developers and Industry Specialists
 - 📫 Reach me at sidhurv8@gmail.com 
 - 🧑‍💼 Linkedin : https://www.linkedin.com/in/venkata-siddardha-rali-535561223/
 
