@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkata Siddardha Rali</h1>
 <h3 align="center">A passionate developer and DevOps enthusiast</h3>
+
 - 🔭 I’m currently working on [Sentiment Analysis tool for Olympics 2024](https://github.com/sidhu2003/GAT-demo)
 
 - 🌱 I’m currently learning **Networking , Automation using python**
