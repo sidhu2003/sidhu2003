@@ -21,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidhu2003&" alt="sidhu2003" /></p>
 
+### know more about me? - [My Resume](https://drive.google.com/file/d/16uJ36KPoEC8aKl4psI3zeAdFA9O0BjBY/view?usp=sharing)
