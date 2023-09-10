@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Venkata Siddardha Rali</h1>
 <h3 align="center">A passionate developer and DevOps enthusiast</h3>
 
-- 🔭 I’m currently working on the Automation of boring tasks project
+- 🔭 I’m currently working on SIH 2023
 
-- 🌱 I’m currently learning **Networking , Automation using python**
+- 🌱 I’m currently learning **Python,MERN Stack**
 
 - 👯 I’m looking to collaborate on [Quote Senpai](https://github.com/sidhu2003/QuoteSenpai)
 
