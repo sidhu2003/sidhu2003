@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on SIH 2023
 
-- 🌱 I’m currently learning **Python,MERN Stack**
+- 🌱 I’m currently learning **Python,Django,Django-REST**
 
 - 👯 I’m looking to collaborate on [Quote Senpai](https://github.com/sidhu2003/QuoteSenpai)
 
