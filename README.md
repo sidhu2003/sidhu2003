@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sidhurv8@gmail.com**
 
-- know more about me? - [My Resume](https://drive.google.com/file/d/16uJ36KPoEC8aKl4psI3zeAdFA9O0BjBY/view?usp=sharing)
+- 🤓 know more about me ?  [My Resume](https://drive.google.com/file/d/16uJ36KPoEC8aKl4psI3zeAdFA9O0BjBY/view?usp=sharing)
 
 
 
