@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django-REST,DevOps**
 
-- 👯 I’m looking to collaborate on [Quote Senpai](https://github.com/sidhu2003/AutoD)
+- 👯 I’m looking to collaborate on [AutoD](https://github.com/sidhu2003/AutoD)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidhu2003](https://github.com/sidhu2003)
 
