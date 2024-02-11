@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Venkata Siddardha Rali</h1>
 <h3 align="center">A passionate developer and DevOps enthusiast</h3>
 
-- 🔭 I’m currently working on SIH 2023
+- 🔭 I’m currently working on DevOps
 
-- 🌱 I’m currently learning **Python,Django,Django-REST**
+- 🌱 I’m currently learning **Django-REST,DevOps**
 
-- 👯 I’m looking to collaborate on [Quote Senpai](https://github.com/sidhu2003/QuoteSenpai)
+- 👯 I’m looking to collaborate on [Quote Senpai](https://github.com/sidhu2003/AutoD)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidhu2003](https://github.com/sidhu2003)
 
-- 💬 Ask me about **Cloud,DevOps,Frontend Development**
+- 💬 Ask me about **Cloud,DevOps,Django Development**
 
 - 📫 How to reach me **sidhurv8@gmail.com**
 
