@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on DevOps
 
-- 🌱 I’m currently learning **Django-REST,DevOps**
+- 🌱 I’m currently learning **AWS,Kubernetes,JAVA**
 
 - 👯 I’m looking to collaborate on [AutoD](https://github.com/sidhu2003/AutoD)
 
