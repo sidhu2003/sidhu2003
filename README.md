@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Siddardha Rali</h1>
-<h3 align="center">A passionate developer and DevOps enthusiast</h3>
+<h3 align="center">A passionate DevOps Guy from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on CodeCommune <br>🌱 I’m currently learning K8's, Java <br>💬 Ask me about DevOps, Cloud, IAC<br>⚡ Fun fact: I'm just too lazy to build stuff so i keep automating them 😜
